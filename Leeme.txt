@@ -1,0 +1,64 @@
+Estrategias comerciales aplicando Machine Learning Supervisados y no spervisados 
+
+Seguro vehicular siguiente mes, una Aseguradora Peruana para el año 2018
+
+resultados machine learning. y su impacto en las ventas
+
+
+
+1ro Segmencitaciòn
+2do Modelos predictivos
+3ro Plan comercial
+
+----------------------------------------------------
+* Analizar como se muestra.
+
+# Análisis de correlación.
+
+datos.acp: base de datos numèricos todos
+cor.test(datos.acp)
+chart.Colleration(datos.acp,histogram = TRUE, pch =20)
+
+#----------------------
+PRINCIPALEs LIBRERIAS de PYTHON
+------
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+bokeh
+tensorflow: deep learning
+pyspark
+keras: neural network
+optimus
+
+
+- constituir nuevo              base legal 
+- modificar			decreto supremo. organizaciones sociales
+
+hasta resolucion sunat + apci
+1ro. registro sunat
+2do. apci
+3ro. ley ong --- cooperacion y constituciòn.  
+
+acta de modificaciòn de la contituciòn.
+ 
+
+todo: 2500
+modificacion: 2000
+apci
+
+pagar: 200 al notario.
+registros. 
+
+///////////////////// julia original direcciòn
+
+C:\Users\Yaneth\AppData\Local\JuliaPro-1.0.1.1\Julia-1.0.1\bin\julia.exe
+
+
+
+
+
+
+
